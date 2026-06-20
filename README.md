@@ -1,2 +1,2 @@
 # Student-Registration-Form-
-SImple Registration Form using only HTML
+Simple Registration Form using only HTML
